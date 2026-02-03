@@ -14,17 +14,8 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 
 ## 📊 GitHub Statistics
 
-Here are my key GitHub metrics. You can click the links to view the live data on my profile:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekhlua)](https://github.com/mekhlua/github-readme-stats)
 
-- **📈 GitHub Profile Overview:** [github.com/mekhlua](https://github.com/mekhlua)
-- **⭐ Total Stars Earned:** View on my [repositories page](https://github.com/mekhlua?tab=repositories)
-- **📦 Total Commits (Past Year):** Tracked on my [contribution graph](https://github.com/mekhlua)
-- **🔄 Pull Requests & Issues:** Managed via my repositories' [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Amekhlua) and [Issues](https://github.com/issues?q=is%3Aissue+author%3Amekhlua) tabs.
-- **🤝 Contributed To:** I'm actively looking for open-source projects to contribute to!
-
-
-## 🟩 Contribution Activity
-![GitHub Contributions](https://ghchart.rshah.org/mekhlua)
 
 ## 🎯 Currently...
 - 🔭 **Working on:** Data Science projects and university assignments at ASTU
