@@ -1,11 +1,12 @@
 <div align="center">
 
-# 🚀 Hello World! I'm Mekhluqat Abdulwehab
+# 🚀 Hello World! I'm
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mekhluqat%20Abdulwehab&fontSize=50&fontAlignY=35&animation=fadeIn)
 
 ### 🎓 Computer Science Student | Adama Science & Technology University
 ### 💻 Data Science Enthusiast | ML Developer | Problem Solver
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mekhluqat%20Abdulwehab&fontSize=50&fontAlignY=35&animation=fadeIn)
 
 </div>
 
@@ -14,16 +15,16 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 
 ## 📊 GitHub Statistics
 
-[![Mekhluqat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekhlua&show_icons=true&theme=radical)](https://github.com/mekhlua)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mekhlua&show_icons=true&theme=default" alt="mekhlua's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekhlua&layout=compact&theme=default" alt="mekhlua's Top Langs" />
+</p>
 
 
 
 ## 🎯 Currently...
 - 🔭 **Working on:** Data Science projects and university assignments at ASTU
 - 🌱 **Learning:** Advanced Python, Machine Learning algorithms, and Data Visualization
-- 👯 **Looking to collaborate on:** Open source Data Science or FinTech projects
-- 🤔 **Looking for help with:** Scaling machine learning models
-- 💬 **Ask me about:** Python, Data Analysis, and my projects on credit risk or fraud detection
 - 📫 **How to reach me:** [mekhluqat@gmail.com](mailto:mekhluqat@gmail.com)
 - ⚡ **Fun fact:** I enjoy turning complex data into clear, actionable insights!
 
