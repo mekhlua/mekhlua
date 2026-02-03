@@ -50,12 +50,6 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🌟 Featured Projects
-### 🎨 [PCA Visualization Tool](https://github.com/mekhlua/PCA-visualisation)
-Interactive visualization tool for Principal Component Analysis
-
-### 🎓 [University Projects](https://github.com/mekhlua/University-projects)
-Collection of academic projects from Adama Science & Technology University
 
 ## 🏫 University Info
 - **Institution:** Adama Science & Technology University (ASTU)
