@@ -13,15 +13,15 @@
 I'm a Computer Science student at Adama Science & Technology University (ASTU), passionate about Data Science, Machine Learning, and building innovative solutions. Currently focused on mastering Python and ML algorithms while working on university projects.
 
 ## 📊 GitHub Statistics
-**Here are my GitHub metrics:**
 
-| Metric | Count |
-|--------|-------|
-| **Total Stars Earned** | ![GitHub stars](https://img.shields.io/github/stars/mekhlua?labelColor=black&color=yellow) |
-| **Total Commits** | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mekhlua?labelColor=black&color=green) |
-| **Total Pull Requests** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/mekhlua?labelColor=black&color=blue) |
-| **Total Issues** | ![GitHub issues](https://img.shields.io/github/issues/mekhlua?labelColor=black&color=red) |
-| **Contributed to** | ![GitHub contributors](https://img.shields.io/github/contributors/mekhlua?labelColor=black&color=purple) |
+Here are my key GitHub metrics. You can click the links to view the live data on my profile:
+
+- **📈 GitHub Profile Overview:** [github.com/mekhlua](https://github.com/mekhlua)
+- **⭐ Total Stars Earned:** View on my [repositories page](https://github.com/mekhlua?tab=repositories)
+- **📦 Total Commits (Past Year):** Tracked on my [contribution graph](https://github.com/mekhlua)
+- **🔄 Pull Requests & Issues:** Managed via my repositories' [Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Amekhlua) and [Issues](https://github.com/issues?q=is%3Aissue+author%3Amekhlua) tabs.
+- **🤝 Contributed To:** I'm actively looking for open-source projects to contribute to!
+
 
 ## 🟩 Contribution Activity
 ![GitHub Contributions](https://ghchart.rshah.org/mekhlua)
