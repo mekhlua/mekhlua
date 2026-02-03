@@ -17,52 +17,45 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 
 | Metric | Count |
 |--------|-------|
-| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/mekhlua?style=flat-square&labelColor=black&color=yellow) |
-| **Total Commits** | ![Commits](https://img.shields.io/github/commit-activity/y/mekhlua?style=flat-square&labelColor=black&color=green) |
-| **Total Pull Requests** | ![PRs](https://img.shields.io/github/issues-pr/mekhlua?style=flat-square&labelColor=black&color=blue) |
-| **Total Issues** | ![Issues](https://img.shields.io/github/issues/mekhlua?style=flat-square&labelColor=black&color=red) |
-| **Contributed to** | ![Contributions](https://img.shields.io/github/contributors/mekhlua?style=flat-square&labelColor=black&color=purple) |
+| **Total Stars Earned** | ![GitHub stars](https://img.shields.io/github/stars/mekhlua?labelColor=black&color=yellow) |
+| **Total Commits** | ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mekhlua?labelColor=black&color=green) |
+| **Total Pull Requests** | ![GitHub pull requests](https://img.shields.io/github/issues-pr/mekhlua?labelColor=black&color=blue) |
+| **Total Issues** | ![GitHub issues](https://img.shields.io/github/issues/mekhlua?labelColor=black&color=red) |
+| **Contributed to** | ![GitHub contributors](https://img.shields.io/github/contributors/mekhlua?labelColor=black&color=purple) |
 
 ## 🟩 Contribution Activity
 ![GitHub Contributions](https://ghchart.rshah.org/mekhlua)
 
 ## 🎯 Currently...
 - 🔭 **Working on:** Data Science projects and university assignments at ASTU
-- 🌱 **Learning:** Python, Machine Learning, Data Visualization
-- 👯 **Looking to collaborate on:** Open source data projects
-- 📫 **How to reach me:** mekhluqat@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can debug code faster than I can fix my sleep schedule! 😄
+- 🌱 **Learning:** Advanced Python, Machine Learning algorithms, and Data Visualization
+- 👯 **Looking to collaborate on:** Open source Data Science or FinTech projects
+- 🤔 **Looking for help with:** Scaling machine learning models
+- 💬 **Ask me about:** Python, Data Analysis, and my projects on credit risk or fraud detection
+- 📫 **How to reach me:** [mekhluqat@gmail.com](mailto:mekhluqat@gmail.com)
+- ⚡ **Fun fact:** I enjoy turning complex data into clear, actionable insights!
 
 ## 🛠️ Tech Stack
-**Programming Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+**Programming & Data Science:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Data Science:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-
-## 🏫 University Info
-- **Institution:** Adama Science & Technology University (ASTU)
-- **Location:** Adama, Ethiopia
-- **Major:** Computer Science
-- **Focus:** Data Science & Software Engineering
-
-## 🤝 Connect With Me
-[![Email](https://img.shields.io/badge/Email-mekhluqat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekhluqat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mekhlua-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mekhlua)
+## 🌟 Featured Projects
+Here are some of my key Data Science projects. Click to explore!
+- [💳 Credit Risk Probability Model](https://github.com/mekhlua/credit-risk-probability-model)
+- [🚨 Fraud Detection for E-commerce & Banking](https://github.com/mekhlua/fraud-detection-for-e-commerce-and-bank-transactions)
+- [📈 Insurance Risk Analytics](https://github.com/mekhlua/insurance-risk-analytics)
+- [🔮 PCA Visualization Tool](https://github.com/mekhlua/PCA-visualisation)
 
 ---
-
 <div align="center">
-⭐ **Check out my repositories below!** ⭐
+    <i>“Data is the new oil, but AI is the refinery.”</i>
 </div>
