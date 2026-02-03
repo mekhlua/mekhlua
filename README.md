@@ -16,10 +16,9 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mekhlua&show_icons=true&theme=default" alt="mekhlua's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekhlua&layout=compact&theme=default" alt="mekhlua's Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mekhlua&show_icons=true&theme=default" alt="mekhlua's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mekhlua&layout=compact&theme=default" alt="mekhlua's Top Langs" />
 </p>
-
 
 
 ## 🎯 Currently...
