@@ -16,8 +16,8 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mekhlua&show_icons=true&bg_color=00000000&hide_border=true" alt="mekhlua's GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mekhlua&layout=compact&bg_color=00000000&hide_border=true" alt="mekhlua's Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mekhlua&show_icons=true&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="mekhlua's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mekhlua&layout=compact&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=c9d1d9" alt="mekhlua's Top Langs" height="170" />
 </p>
 
 
