@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mekhlua/mekhlua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hello World! I'm Mekhluqat Abdulwehab
 
-Here are some ideas to get you started:
+### 🎓 Computer Science Student | Adama Science & Technology University
+### 💻 Data Science Enthusiast | ML Developer | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mekhluqat%20Abdulwehab&fontSize=50&fontAlignY=35&animation=fadeIn)
+
+[![GitHub followers](https://img.shields.io/github/followers/mekhlua?label=Follow&style=social)](https://github.com/mekhlua)
+[![Stars](https://img.shields.io/github/stars/mekhlua?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/mekhlua)
+
+</div>
+
+## 🌟 About Me
+```python
+class CSStudent:
+    def __init__(self):
+        self.name = "Mekhluqat Abdulwehab"
+        self.university = "Adama Science & Technology University"
+        self.major = "Computer Science"
+        self.interests = ["Data Science", "Machine Learning", "AI", "Web Development"]
+        self.location = "Adama, Ethiopia"
+        
+    def current_focus(self):
+        return "Building Data Science projects and mastering ML algorithms"
+    
+me = CSStudent()
