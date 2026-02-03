@@ -14,7 +14,8 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 
 ## 📊 GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekhlua)](https://github.com/mekhlua/github-readme-stats)
+[![Mekhluqat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekhlua&show_icons=true&theme=radical)](https://github.com/mekhlua)
+
 
 
 ## 🎯 Currently...
