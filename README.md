@@ -16,7 +16,12 @@
 ## 🌟 About Me
 I'm a Computer Science student at Adama Science & Technology University (ASTU), passionate about Data Science, Machine Learning, and building innovative solutions. Currently focused on mastering Python and ML algorithms while working on university projects.
 
+## 📊 GitHub Statistics
 
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mekhlua&show_icons=true&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="mekhlua stats" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mekhlua&layout=compact&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=c9d1d9" alt="mekhlua languages" height="175" />
+</p>
 
 ## 🛠️ Tech Stack
 | Category | Tools & Languages |
@@ -25,22 +30,23 @@ I'm a Computer Science student at Adama Science & Technology University (ASTU), 
 | **Environments** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 
-
-## 🎯 Currently...
-- 🔭 **Working on:** Data Science projects and university assignments at ASTU.
-- 🌱 **Learning:** Advanced Python, ML Algorithms, and Data Visualization.
-- ⚡ **Fun fact:** I enjoy turning complex data into clear, actionable insights!
 - ## 📊 GitHub Stats & Activity
-
+- 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mekhlua&theme=dark)
 
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies">
     <img src="https://github-trophies.vercel.app/?username=mekhlua&theme=dark&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
+</div>
+
+## 🎯 Currently...
+- 🔭 **Working on:** Data Science projects and university assignments at ASTU.
+- 🌱 **Learning:** Advanced Python, ML Algorithms, and Data Visualization.
+- ⚡ **Fun fact:** I enjoy turning complex data into clear, actionable insights!
+
 
 <div align="right">
  <i>"Data is the new oil, but AI is the refinery"</i><br>
