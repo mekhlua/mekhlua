@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hello World! I'm Mekhluqat Abdulwehab
+# 🚀 Selam! I'm Mekhluqat Abdulwehab
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mekhluqat%20Abdulwehab&fontSize=50" width="100%" />
 
